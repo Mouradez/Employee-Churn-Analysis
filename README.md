@@ -15,4 +15,10 @@ There are numerous case studies available on customer churn. In customer churn, 
 - **Pickle**: For loading the trained machine learning model.
 - **Streamlit**: For creating the web application.
 
+## Demo 
+Here is a small demo of the application:
+
 <img width="447" alt="image" src="https://github.com/user-attachments/assets/b94879d5-311b-4db0-a3e6-83664ac4efd9">
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/d5fa910a-f13a-4f6c-80ae-5b84db9bc081">
+<img width="483" alt="image" src="https://github.com/user-attachments/assets/0d715ece-7ee3-4ff0-9935-f3daab378303">
+<img width="449" alt="image" src="https://github.com/user-attachments/assets/f0c20d60-8b3f-4b7b-bd03-d8f827238599">
